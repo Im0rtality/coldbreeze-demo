@@ -25,6 +25,7 @@ class AppKernel extends SyliusKernel
         );
         if ('prod' === $this->environment) {
             $bundles[] = new \Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle();
+            $bundles[] = new \Sylius\Bundle\FixturesBundle\SyliusFixturesBundle();
         }
 
         return array_merge($bundles, parent::registerBundles());
