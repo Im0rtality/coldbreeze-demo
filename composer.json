@@ -98,6 +98,14 @@
         "symfony-web-dir": "web",
         "incenteev-parameters": {
             "file": "app/config/parameters.yml"
+        },
+        "heroku": {
+            "document-root": "web",
+            "php-config": [
+                "date.timezone=Europe/Amsterdam",
+                "display_errors=off",
+                "short_open_tag=off"
+            ]
         }
     }
 }
