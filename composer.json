@@ -55,7 +55,8 @@
         "twig/extensions":                      "1.0.*",
         "white-october/pagerfanta-bundle":      "1.0.*@dev",
         "im0rtality/coldbreeze":                "dev-master",
-        "doctrine/doctrine-fixtures-bundle":    "2.2.*"
+        "doctrine/doctrine-fixtures-bundle":    "2.2.*",
+        "fzaninotto/faker":                     "1.2.*"
     },
     "require-dev": {
         "behat/behat":                       "~2.4",
@@ -64,8 +65,6 @@
         "behat/mink-goutte-driver":          "*",
         "behat/mink-selenium2-driver":       "*",
         "behat/symfony2-extension":          "*",
-        "doctrine/doctrine-fixtures-bundle": "2.2.*",
-        "fzaninotto/faker":                  "1.2.*",
         "phpspec/phpspec":                   "~2.0",
         "phpunit/phpunit":                   "~3.7"
     },
