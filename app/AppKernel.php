@@ -23,6 +23,9 @@ class AppKernel extends SyliusKernel
         $bundles = array(
             new \Im0rtality\ColdBreezeBundle\Im0rtalityColdBreezeBundle(),
         );
+        if ('prod' === $this->environment) {
+            $bundles[] = new \Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle();
+        }
 
         return array_merge($bundles, parent::registerBundles());
     }
