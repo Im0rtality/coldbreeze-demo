@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sensio/distribution-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sensio/generator-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sensio/framework-extra-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/incenteev/composer-parameter-handler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/gaufrette" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/phpspec" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/cart-bundle/Sylius/Bundle/CartBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/shipping-bundle/Sylius/Bundle/ShippingBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/taxation-bundle/Sylius/Bundle/TaxationBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/resource-bundle/Sylius/Bundle/ResourceBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/product-bundle/Sylius/Bundle/ProductBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/variable-product-bundle/Sylius/Bundle/VariableProductBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/order-bundle/Sylius/Bundle/OrderBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/promotions-bundle/Sylius/Bundle/PromotionsBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/inventory-bundle/Sylius/Bundle/InventoryBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/installer-bundle/Sylius/Bundle/InstallerBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/payum-bundle/Sylius/Bundle/PayumBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/money-bundle/Sylius/Bundle/MoneyBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/settings-bundle/Sylius/Bundle/SettingsBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/core-bundle/Sylius/Bundle/CoreBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/payments-bundle/Sylius/Bundle/PaymentsBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/taxonomies-bundle/Sylius/Bundle/TaxonomiesBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/addressing-bundle/Sylius/Bundle/AddressingBundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/data-fixtures/tests/Doctrine/Tests/Common/DataFixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/gherkin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/mink" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/mink-browserkit-driver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions/tests/Gedmo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/liip/imagine-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mathiasverraes/money/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mathiasverraes/money/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/guzzle/http" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/guzzle/parser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/guzzle/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/guzzle/stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions/example/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-menu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-menu/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-menu-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-snappy-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-gaufrette-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-snappy/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-snappy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/paypal/rest-api-sdk-php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/paypal/rest-api-sdk-php/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/willdurand/negotiation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/willdurand/negotiation/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/fallback" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpcollection/phpcollection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpcollection/phpcollection/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/white-october/pagerfanta-bundle/WhiteOctober/PagerfantaBundle/TestsProject/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/white-october/pagerfanta-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/imagine/imagine/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/imagine/imagine/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/kriswallsmith/assetic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/kriswallsmith/assetic/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/money-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/taxation-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/flow-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/shipping-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/variable-product-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/order-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/installer-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/resource-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/taxonomies-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/web-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/payum-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/core-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/payments-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/promotions-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/fixtures-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/inventory-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/cart-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/product-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/settings-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sylius/addressing-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/phpspec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/orm/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/orm/tools/sandbox" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/common/tests/Doctrine/Tests/Common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/swiftmailer-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/assetic-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony-cmf/menu-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony-cmf/routing-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony-cmf/core-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony-cmf/block-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony-cmf/content-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony-cmf/routing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/expression-language" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/icu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/friendsofsymfony/rest-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/friendsofsymfony/user-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/cache/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/orm/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/collections/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/common/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/dbal/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/data-fixtures/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/phpcr-odm/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/orm/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/common/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/cache/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/data-fixtures/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/collections/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/dbal/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/phpcr-odm/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/phpcr-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-cache-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-fixtures-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sonata-project/block-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-cache-bundle/Doctrine/Bundle/DoctrineCacheBundle/Tests/DependencyInjection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/mink/tests" isTestSource="true" packagePrefix="Test" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/gherkin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/mink/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/mink-browserkit-driver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/symfony2-extension/testapp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/mink-extension/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/behat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/behat/symfony2-extension/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/omnipay/omnipay/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/omnipay/omnipay/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/hwi/oauth-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/stof/doctrine-extensions-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/payum/payum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/payum/payum-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/payum/payum/src/Payum/Paypal/ExpressCheckout/Nvp/Resources/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpcr/phpcr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpcr/phpcr-utils/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpcr/phpcr-utils/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/pagerfanta/pagerfanta/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/pagerfanta/pagerfanta/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpoption/phpoption/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpoption/phpoption/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/translation-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/parser-lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/serializer-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/serializer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/serializer/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/gaufrette/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/knplabs/gaufrette/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/kriswallsmith/buzz/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/kriswallsmith/buzz/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/metadata/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jms/metadata/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jackalope/jackalope/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jackalope/jackalope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jackalope/jackalope-doctrine-dbal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jackalope/jackalope-doctrine-dbal/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/fallback" isTestSource="false" packagePrefix="Apc" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/im0rtality/coldbreeze" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
