@@ -102,7 +102,7 @@
         "heroku": {
             "document-root": "web",
             "php-config": [
-                "date.timezone=Europe/Amsterdam",
+                "date.timezone=Europe/Vilnius",
                 "display_errors=off",
                 "short_open_tag=off"
             ]
