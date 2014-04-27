@@ -1,3 +1,4 @@
+.idea/*
 app/*\.cache
 app/cache/*
 
@@ -14,13 +15,6 @@ web/js/*
 web/assets/compiled/*
 web/media/*
 
-bin/behat
-bin/doctrine*
-bin/phpspec
-bin/webunit
-bin/phpunit
-bin/phpcrodm
-bin/phpcrodm.php
-bin/jackalope
-bin/phpunit
+bin/*
+
 vendor/*
