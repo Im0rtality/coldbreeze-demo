@@ -1,0 +1,15 @@
+forge "http://forge.puppetlabs.com"
+
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/concat'
+mod 'puppetlabs/apt'
+mod 'example42/yum'
+mod 'puppetlabs/vcsrepo'
+mod 'puppetlabs/ntp'
+mod 'example42/iptables'
+mod 'puppetlabs/apache'
+mod 'example42/php'
+mod 'tPl0ch/composer'
+mod 'puphpet', :git => 'https://github.com/puphpet/puppet-puphpet.git'
+mod 'puppetlabs/mysql'
+mod 'willdurand/nodejs'
