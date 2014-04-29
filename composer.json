@@ -98,17 +98,12 @@
         "symfony-web-dir": "web",
         "incenteev-parameters": {
             "file": "app/config/parameters.yml"
-        },
-        "heroku": {
-            "framework": "symfony2",
-            "php-config": [
-                "date.timezone=Europe/Vilnius",
-                "display_errors=off",
-                "short_open_tag=off"
-            ],
-            "compile": [
-                "php app/console assetic:dump --env=prod"
-            ]
         }
-    }
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/Im0rtality/cold-breeze-bundle.git",
+            "type": "git"
+        }
+    ]
 }
