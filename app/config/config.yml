@@ -2,7 +2,6 @@ imports:
     - { resource: parameters.yml }
     - { resource: security.yml }
     - { resource: @SyliusCoreBundle/Resources/config/app/main.yml }
-    - { resource: heroku.php }
 
 framework:
     translator:      { fallback: %sylius.locale% }
