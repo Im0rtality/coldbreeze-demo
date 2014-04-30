@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="Vagrant ZALESIAI" stopOnFirstError="true" deleteMissingItems="true" createEmptyFolders="true" traceLevel="ERRORS" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Vagrant COLDBREEZE/Sylius" stopOnFirstError="true" deleteMissingItems="true" createEmptyFolders="true" traceLevel="ERRORS" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="Vagrant ZALESIAI">
+      <paths name="Vagrant COLDBREEZE/Sylius">
         <serverdata>
           <mappings>
             <mapping deploy="/var/www" local="$PROJECT_DIR$" web="/" />
