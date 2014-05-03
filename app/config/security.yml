@@ -76,5 +76,3 @@ security:
         - { path: "/account.*", role: ROLE_USER }
 
         - { path: "/_partial.*", ip: 127.0.0.1 }
-
-        - { path: "/coldbreeze*", role: ROLE_SYLIUS_ADMIN }
