@@ -24,7 +24,11 @@ security:
                 path:   /administration/logout
                 target: /administration/login
             anonymous: true
-
+        coldbreeze:
+            pattern:    /coldbreeze/*
+            stateless:  true
+            simple_preauth:
+                authenticator: im0rtality_cold_breeze.authenticator
         main:
             switch_user: { role: ROLE_SYLIUS_ADMIN }
             context:     user
@@ -72,3 +76,5 @@ security:
         - { path: "/account.*", role: ROLE_USER }
 
         - { path: "/_partial.*", ip: 127.0.0.1 }
+
+        - { path: "/coldbreeze*", role: ROLE_SYLIUS_ADMIN }
