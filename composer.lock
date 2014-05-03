@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "9f20d06b0e6bd5a3c90396d6043d1bc0",
+    "hash": "9f6d278fa33fa9462615e553e020e43d",
     "packages": [
         {
             "name": "ajbdev/authorizenet-php-api",
@@ -1720,7 +1720,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Im0rtality/cold-breeze-bundle.git",
-                "reference": "2353f442700b840c3e7ea1c1d3f616cc8122cb0e"
+                "reference": "5ac9bf5100877f248d890f8275d805e73e79c341"
             },
             "require": {
                 "php": ">=5.3.0",
@@ -1745,7 +1745,7 @@
                 }
             ],
             "description": "Backend magic for Cold Breeze app",
-            "time": "2014-05-01 15:34:08"
+            "time": "2014-05-03 15:13:51"
         },
         {
             "name": "imagine/imagine",
