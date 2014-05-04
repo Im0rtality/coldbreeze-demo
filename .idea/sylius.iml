@@ -180,6 +180,7 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/beta" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/im0rtality/coldbreeze" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/app/cache" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
