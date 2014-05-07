@@ -1720,7 +1720,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Im0rtality/cold-breeze-bundle.git",
-                "reference": "31d86f17fda6c8eadfdd4335a71d01095fd94b8b"
+                "reference": "12905d0c4c15d23c6e96c1a82e4728485b211670"
             },
             "require": {
                 "php": ">=5.3.0",
@@ -1745,7 +1745,7 @@
                 }
             ],
             "description": "Backend magic for Cold Breeze app",
-            "time": "2014-05-06 18:07:18"
+            "time": "2014-05-06 18:40:59"
         },
         {
             "name": "imagine/imagine",
